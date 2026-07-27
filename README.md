@@ -1,6 +1,3 @@
-Viewed pom.xml:1-121
-Viewed pom.xml:1-144
-
 # MetaMapa: Sistema de Gestión de Mapeos Colaborativos
 
 ![Java 17](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white)
