@@ -1,4 +1,6 @@
 # MetaMapa: Sistema de Gestión de Mapeos Colaborativos
+[![UTN FRBA](https://img.shields.io/badge/UTN-FRBA-005BBB.svg)](https://www.frba.utn.edu.ar/)
+[![Course Period](https://img.shields.io/badge/cursada-2025-blue.svg)](#sobre-la-cursada)
 
 ![Java 17](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.0-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
